@@ -2,7 +2,7 @@
 
 Hello everyone,
 
-My name is Michele Arduini and I am submitting my attempt for the coding challenge that was provided to me. The folder structure is the same as the one initially set up, with the exception of a new folder called "old" inside the "challenge" folder, which contains some of my initial attempts for the challenge.
+My name is Michele Arduini and I am submitting my attempt for the coding challenge that was provided to me. The folder structure is the same as the one initially set up, with the exception of a new folder called "old" inside the "challenge" folder and a mytest.ipynb notebook in the main folder, which contains some of my initial attempts for the challenge.
 
 Thank you for your consideration. I am available to clarify any doubt.
 
